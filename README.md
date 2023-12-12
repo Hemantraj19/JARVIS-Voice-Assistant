@@ -40,12 +40,7 @@ Jarvis is a Python-based voice assistant that enables hands-free control of vari
 ## Usage
 
 1. Ensure that the Flask application is running.
-2. Start Jarvis by running the `jarvis.py` script:
-
-    ```bash
-    pipenv run python jarvis.py
-    ```
-
+2. No need to run jarvis.py separately.
 3. Jarvis will now respond to voice commands and perform various tasks.
 
 ## Supported Commands
@@ -67,10 +62,6 @@ Jarvis is a Python-based voice assistant that enables hands-free control of vari
 - **CPU:** Check CPU usage.
 - **Battery:** Check battery status.
 - **Shutdown/Restart:** Control system shutdown or restart.
-
-## Configuration
-
-- Update `config.py` with any necessary API keys, paths, or configuration options.
 
 ## Contributing
 
