@@ -2,6 +2,8 @@
 
 Jarvis is a Python-based voice assistant that enables hands-free control of various tasks through voice commands. It features a web interface for status monitoring and interaction.
 
+![Jarvis Frontend Image](https://github.com/Hemantraj19/J.A.R.V.I.S/blob/main/jarvis_frontend.png)
+
 ## Features
 
 - **Voice Commands:** Control Jarvis using voice commands for tasks like sending WhatsApp messages, searching Wikipedia, playing videos on YouTube, providing weather updates, and more.
